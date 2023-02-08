@@ -12,7 +12,6 @@ This motivates me to grow as a professional and share my knowledge.
 ## 🧭 About me
 
 - 🌍 I'm based in Sacramento, CA
-- 🚀 I'm currently working in [IvorySoft](http://ivorysoft.co)
 - ✉️ My email: [dmitry.developer@protonmail.com](mailto:dmitry.developer@protonmail.com)
 - 💬 [LinkedIn](https://linkedin.com/in/dmitry-dnch)
 - 💼 Open to work and other propositions
