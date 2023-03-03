@@ -1,7 +1,7 @@
 <img src="header.jpg" alt="Dmitry Dnch" align="center"/>
 
 <h3 align="center">
-    Hi! I'm <a href="https://linkedin.com/in/dmitry-dnch" target="_blank">Dmitry</a> 👋 - Full-stack developer
+    Hi! I'm <a href="https://linkedin.com/in/dmitry-dnch" target="_blank">Dmitry</a> 👋 
     <hr>
 </h3>
 
