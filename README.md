@@ -1,50 +1,27 @@
-<img src="header.jpg" alt="Dmitry Dnch" align="center"/>
+# 🖖 Welcome, I'm Dmitry
 
-<h3 align="center">
-    Hi! I'm <a href="https://linkedin.com/in/dmitry-dnch" target="_blank">Dmitry</a> 👋 
-    <hr>
-</h3>
+### 🇺🇦 Ukrainian Backend Developer based in United States 🇺🇸
 
-I am developing, creating, solving, and designing with deep passion.
-I love to make a contribution to the products I work on.
-This motivates me to grow as a professional and share my knowledge.
+### 🤖 Committed in tech, motivated to create & improve valuable products
 
-## 🧭 About me
+🤩 I'm that guy, whom job is easily describable by one word - **passion**
 
-- 🌍 I'm based in Sacramento, CA
-- ✉️ My email: [dmitry.developer@protonmail.com](mailto:dmitry.developer@protonmail.com)
-- 💬 [LinkedIn](https://linkedin.com/in/dmitry-dnch)
-- 💼 Open to work and other propositions
+- 🙌 Always open for any connections, to work together and create powerful solutions together
+- 🔭 Currently learning: **Terraform**, **Cryptography**
+- 📚 Never stopping to study and practise
 
-⚙️ Backend Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript" alt="dmitrydnch - javascript"/>
+  <img src="https://img.shields.io/badge/Typescript-white?style=for-the-badge&logo=typescript" alt="dmitrydnch - typescript"/>
+  <img src="https://img.shields.io/badge/Node.JS-white?style=for-the-badge&logo=nodedotjs" alt="dmitrydnch - nodejs"/>
+  <img src="https://img.shields.io/badge/Love%20Postgres-skyblue?style=for-the-badge&logo=postgresql" alt="dmitrydnch - postgres"/>  
+</p>
+
 ---
 
-#### Core
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-
-#### Database & ORM
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
-
-#### Other
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Twilio](https://img.shields.io/badge/twilio-red.svg?style=for-the-badge&logo=twilio&logoColor=white)
-![Stripe](https://img.shields.io/badge/stripe-666ee8.svg?style=for-the-badge&logo=stripe&logoColor=white)
-
-🖥️ React
----
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MobX](https://img.shields.io/badge/mobx-%23FF9900.svg?style=for-the-badge&logo=mobx&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+<p>Feel free to message me on LinkedIn</p>
+<a href="https://linkedin.com/in/dmytro-dnch">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+   
